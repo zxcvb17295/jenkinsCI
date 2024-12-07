@@ -22,7 +22,7 @@ public class FirstTest {
     }
     @Test
     void test_4() {
-        assertEquals(1, 1);
+        assertEquals(2, 1);
         assertEquals(1, 1);
         assertEquals(1, 1);
         assertEquals(1, 1);
