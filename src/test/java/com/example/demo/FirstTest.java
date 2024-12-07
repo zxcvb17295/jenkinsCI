@@ -8,6 +8,5 @@ public class FirstTest {
 
     @Test
     void test_first() {
-        assertEquals(1, 1);
     }
 }
