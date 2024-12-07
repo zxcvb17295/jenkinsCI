@@ -10,4 +10,9 @@ public class FirstTest {
     void test_first() {
         assertEquals(1, 1);
     }
+
+    @Test
+    void test_second() {
+        assertEquals(1, 1);
+    }
 }
