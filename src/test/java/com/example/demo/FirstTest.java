@@ -9,4 +9,7 @@ public class FirstTest {
     @Test
     void test_first() {
     }
+    @Test
+    void test_first1() {
+    }
 }
